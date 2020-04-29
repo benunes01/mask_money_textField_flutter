@@ -5,7 +5,7 @@ void main() {
   runApp(MyApp());
 }
 
-//In Brazil the standard is a comma instead of a period to separate the cents. And place a dot every 3 places to be better visible.
+//In Brazil the standard is a comma instead of a dot to separate the cents. And place a dot every 3 places to be better visible.
 
 class MyApp extends StatelessWidget {
 
