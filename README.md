@@ -7,6 +7,6 @@ You can use this mask in Text widgets, not for Inputs.
 <h3>Input: 130999564.96  -> Output: 130.999.564,96</h3>
 
 how use:
-mask-money_textField('VALOR A SER FORMATADO'.toString())
+mask-money_textField('VALOR A SER FORMATADO'.toString());
 
 
